@@ -1,0 +1,7 @@
+Do you think your program will help the study keep track of the research data?
+
+
+Describe how you might add functionality to calculate the statistics.
+
+
+What things do you think will be easier and what things are more difficult using file I/O instead of a database?
