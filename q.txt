@@ -1,7 +1,7 @@
 Do you think your program will help the study keep track of the research data?
-
+I think that this program can help keep track of research data because along with the answers to the survey and the participant's ID number, the survey file also keeps track of the day the survery was taken. 
 
 Describe how you might add functionality to calculate the statistics.
-
+To calculate statistics I would add another file that tallies up the amount of participants that are dealing with side effects, calculate the percent that think the drug has helped vs the amount that are taking a placebo. Like the survey this file would say the date that the statistics were updated. 
 
 What things do you think will be easier and what things are more difficult using file I/O instead of a database?
