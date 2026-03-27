@@ -5,3 +5,5 @@ Describe how you might add functionality to calculate the statistics.
 To calculate statistics I would add another file that tallies up the amount of participants that are dealing with side effects, calculate the percent that think the drug has helped vs the amount that are taking a placebo. Like the survey this file would say the date that the statistics were updated. 
 
 What things do you think will be easier and what things are more difficult using file I/O instead of a database?
+The file I/O makes it easy to quickly collect data and store it in its raw data form, although if the research study goes onto a bigger scale this system will not be able to keep all the data its being given organized like a database would be. A datebase while it will not leave the data giving unstructured, it will keep the data given more organized and allow it to be easier to navigate if put onto a larger scale. 
+
